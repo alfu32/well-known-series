@@ -110,3 +110,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+
+catalan
+collatz
+factorial
+fibonacci
+lucas
+pell
+prime
+triangular
